@@ -3,9 +3,7 @@
 api/.gradle/
 api/build/
 *.iml
-*.ipr
-*.iws
 .idea/
 api/.idea/
 ui/.idea/
-ui/node_modules
+ui/node_modules/
